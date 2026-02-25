@@ -1,8 +1,8 @@
 # Olá 👋, sou Jeanluca Caleare Gonçalves
 
-Estudante de **Engenharia de Computação** no IFSULDEMINAS. Atualmente, trabalho na integração de sistemas, automação e soluções digitais.
+Olá! Meu nome é Jeanluca Caleare Gonçalves e sou estudante de Engenharia de Computação no Instituto Federal do Sul de Minas Gerais (IFSULDEMINAS). Atualmente, faço parte do projeto Mais Ciencia na escola . Tenho interesse especial na área de desenvolvimento web, principalmente no Front-End, embora também possua conhecimentos em Back-End e Arduino.
 
-📫 **Contato:** [jeanlucagoncalves@gmail.com](mailto:jeanlucagoncalves@gmail.com)
+- 📫 Como entrar em contato comigo **jeanlucagoncalves@gmail.com**
 
 ---
 
@@ -23,12 +23,12 @@ Estudante de **Engenharia de Computação** no IFSULDEMINAS. Atualmente, trabalh
 ### 📊 Estatísticas GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanluca-cgoncalves&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanluca-cgoncalves&layout=compact&langs_count=7&theme=react" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeanluca-CGoncalves&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanluca-CGoncalves&layout=compact&langs_count=7&theme=react" />
 </p>
 
 ---
 
 ### 🚀 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USER_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanluca-gonçalves-40757b24b)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeanluca-CGoncalves)
